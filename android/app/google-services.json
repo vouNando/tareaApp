@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "376000080785",
+    "firebase_url": "https://app-log1-86a56-default-rtdb.firebaseio.com",
+    "project_id": "app-log1-86a56",
+    "storage_bucket": "app-log1-86a56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376000080785:android:4c82104328440d17e6c830",
+        "android_client_info": {
+          "package_name": "com.example.app001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1anjWggCuBnN0so5ShPuyex8Nwwcv_6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376000080785:android:4c6262f8e9a739c7e6c830",
+        "android_client_info": {
+          "package_name": "com.example.app002_prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1anjWggCuBnN0so5ShPuyex8Nwwcv_6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376000080785:android:68b254b1bbe110b9e6c830",
+        "android_client_info": {
+          "package_name": "com.example.tarea_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1anjWggCuBnN0so5ShPuyex8Nwwcv_6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
